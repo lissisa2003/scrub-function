@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "name": "Kiryu Kazuma",
+    "username": "dragonOfDojima1968",
+    "email": "beast_mode@tojo_clan.jp",
+    "age": 54,
+    "style": "Dragon",
+    "tattoo": "Dragon",
+    "password": "sunshine_tojo_4",
+    "friends": [
+        {
+            "id": 456,
+            "name": "Sawamura Haruka",
+            "username": "magical_girl_haruka"
+        },
+        {
+            "id": 357,
+            "name": "Majima Goro",
+            "username": "MadDog1964"
+        }
+    ]
+}
