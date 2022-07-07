@@ -1,4 +1,4 @@
-** Sensitive Data Scrubbing Function **
+## Sensitive Data Scrubbing Function
 
 This function replaces sensitive data such as names, usernames, emails, and passwords with a masking replacement string. The function takes in a JSON argument and both returns the scrubbed data and prints it to the console.
 
